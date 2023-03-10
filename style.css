@@ -1,0 +1,12 @@
+body {
+  font-family: "Playfair Display", serif;
+}
+
+.title-text {
+  font-size: 14px;
+  padding: 0 0 0 40px;
+}
+p {
+  font-size: 12px;
+  padding: 0 0 0 20px;
+}
